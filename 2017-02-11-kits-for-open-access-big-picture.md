@@ -4,7 +4,7 @@ title:  "Kits for Open Access"
 subtitle:   "The Big Picture Statement"
 date: 2017-11-02 10:31:00
 author:     "David N. Wright"
-img: "img/filenamehere.jpg"
+header-img: "img/big-picture-key.jpg"
 ---
 
 What follows here is a big-picture statement about what the kits in the open access series are meant to encourage. In general, the kits are meant to be used in a first or second-year college / university classroom by students and educators or, by individuals who might want to kickstart their research or critical thinking practices--a larger community that could extend outside institutions of higher education. 
