@@ -1,13 +1,4 @@
----
-layout: post
-title:  "Kits for Open Access"
-subtitle:   "The Big Picture Statement"
-date: 2017-11-02 10:31:00
-author:     "David N. Wright"
-header-img: "img/big-picture-key.jpg"
----
 
-What follows here is a big-picture statement about what the kits in the open access series are meant to encourage. In general, the kits are meant to be used in a first or second-year college / university classroom by students and educators or, by individuals who might want to kickstart their research or critical thinking practices--a larger community that could extend outside institutions of higher education. 
 
 This project borrows from many critical currents swirling around innovative teaching and research practices underway in academic circles that foreground collisions between making, technology, and social themes. Notable examples include, but are not limited to, [Garnet Hertz and his concept of "Critical Making"](http://current.ecuad.ca/what-is-critical-making) in conjunction with [Mark Ratto](http://criticalmaking.com/matt-ratto/) and the Critical Making Lab at the University of Toronto; the work of Jentery Sayers and others at the [University of Victoria's "Maker Lab" in the Humanities](http://maker.uvic.ca/about/), [Kari M. Kraus](https://www.english.umd.edu/profiles/kkraus) is a big influence, as are [Lori Emerson](https://loriemerson.net/) and [Mark Sample](https://www.davidson.edu/academics/digital-studies/faculty-and-staff/mark-sample). This is a limited list to reduce a torrent of name-dropping; there are, as always, many others offering valuable contributions not named here, but the individuals named above are the key markers on the map of my thinking and its application.  
 
